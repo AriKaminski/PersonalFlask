@@ -1,5 +1,6 @@
 body{
-    background-color: lightblue;
+    background-image: url('../images/bgtest1.jpg');
+    background-repeat: repeat; /* Set the background image to repeat */
 }
 
 h1{
@@ -30,9 +31,13 @@ h1{
 
 /* styles.css */
 .main-container {
-    max-width: 800px; /* Set a maximum width for the content */
+    background-color: lightblue;
+    max-width: 1000px; /* Set a maximum width for the content */
     margin: 0 auto; /* Center the div horizontally */
     padding: 20px; /* Add some padding for better readability */
+    border: 2px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 60px;
 }
 
 .main-image {
