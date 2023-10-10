@@ -1,0 +1,20 @@
+Portfolio Flask Web App
+
+/index
+- Profile Picture
+- Small about me
+- Projects / Highlights
+
+
+/projects
+- A descriptive page to showcase all projects
+- Link to github
+
+/Blog
+- Small blog to post fun things
+- Links to other Social Media?
+
+/contact
+- Where to contact
+- Resume
+- Socials

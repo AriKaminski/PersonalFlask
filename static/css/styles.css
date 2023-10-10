@@ -1,0 +1,42 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    margin: 0;
+    text-align: center;
+}
+
+/* styles.css */
+.button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #bfcfe0; /* Change the background color on hover */
+}
+
+.button-container {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 20px;
+}
+
+/* styles.css */
+.main-container {
+    max-width: 800px; /* Set a maximum width for the content */
+    margin: 0 auto; /* Center the div horizontally */
+    padding: 20px; /* Add some padding for better readability */
+}
+
+.main-image {
+    max-width: 100%; /* Ensure the image doesn't exceed the container width */
+    display: block; /* Remove any extra spacing or alignment issues */
+    margin: 0 auto; /* Center the image horizontally */
+}
